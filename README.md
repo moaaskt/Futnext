@@ -9,7 +9,7 @@ Um dashboard interativo com estatísticas, jogadores e times do Campeonato Brasi
 
 ## ✨ Funcionalidades
 
-- 📊 Visualização de todos os times do Brasileirão 2025
+- 📊 Visualização de todos os times do Brasileirão 2023
 - 👥 Listagem completa de jogadores por time
 - 🔍 Busca inteligente por nome de jogador
 - 📱 Design totalmente responsivo
